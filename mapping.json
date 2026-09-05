@@ -1,0 +1,1112 @@
+[
+  {
+    "marca": "CAPSA",
+    "sku": "311002920",
+    "modelo": "U1R 600",
+    "archivo_definitivo": "images/capsa/311002920.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MTX / U1R 600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002925",
+    "modelo": "U1R 500",
+    "archivo_definitivo": "images/capsa/311002925.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MTX / U1R 500.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002980",
+    "modelo": "4D 1800",
+    "archivo_definitivo": "images/capsa/311002980.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 4D1800.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002982",
+    "modelo": "4D 2000",
+    "archivo_definitivo": "images/capsa/311002982.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 4D2000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002984",
+    "modelo": "4DI 2000",
+    "archivo_definitivo": "images/capsa/311002984.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 4DI2000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002987",
+    "modelo": "4DLTI 1900",
+    "archivo_definitivo": "images/capsa/311002987.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 4DLTI 1900.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002990",
+    "modelo": "8DI 2600",
+    "archivo_definitivo": "images/capsa/311002990.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 8DI 2600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311002991",
+    "modelo": "8D 2600",
+    "archivo_definitivo": "images/capsa/311002991.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 8D 2600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311004922",
+    "modelo": "NS40L HD 670",
+    "archivo_definitivo": "images/capsa/311004922.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / NS40L HD 670.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005611",
+    "modelo": "U1R 450",
+    "archivo_definitivo": "images/capsa/311005611.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MTX / U1R 450.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005633",
+    "modelo": "24R 950",
+    "archivo_definitivo": "images/capsa/311005633.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 24R 950.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005634",
+    "modelo": "24 950",
+    "archivo_definitivo": "images/capsa/311005634.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 24 950.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005637",
+    "modelo": "27R 1000",
+    "archivo_definitivo": "images/capsa/311005637.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 27R 1000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005638",
+    "modelo": "27 1000",
+    "archivo_definitivo": "images/capsa/311005638.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 27 1000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005639",
+    "modelo": "27R 1150",
+    "archivo_definitivo": "images/capsa/311005639.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 27R 1150.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005640",
+    "modelo": "27 1150",
+    "archivo_definitivo": "images/capsa/311005640.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 27 1150.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005642",
+    "modelo": "35 1100",
+    "archivo_definitivo": "images/capsa/311005642.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 35 1100.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005643",
+    "modelo": "42I 700",
+    "archivo_definitivo": "images/capsa/311005643.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 42I 700.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005644",
+    "modelo": "42I 800",
+    "archivo_definitivo": "images/capsa/311005644.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 42I 800.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005645",
+    "modelo": "42 800",
+    "archivo_definitivo": "images/capsa/311005645.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 42 800.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005646",
+    "modelo": "42I 900",
+    "archivo_definitivo": "images/capsa/311005646.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 42I 900.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005647",
+    "modelo": "42 900",
+    "archivo_definitivo": "images/capsa/311005647.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 42 900.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005648",
+    "modelo": "48I 1000",
+    "archivo_definitivo": "images/capsa/311005648.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 48I 1000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005649",
+    "modelo": "48 1000",
+    "archivo_definitivo": "images/capsa/311005649.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 48 1000.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005651",
+    "modelo": "24 800",
+    "archivo_definitivo": "images/capsa/311005651.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 24 800.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005652",
+    "modelo": "24R 800",
+    "archivo_definitivo": "images/capsa/311005652.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 24R 800.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005653",
+    "modelo": "36I 750",
+    "archivo_definitivo": "images/capsa/311005653.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 36I 750.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005655",
+    "modelo": "NS60LS 700",
+    "archivo_definitivo": "images/capsa/311005655.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / NS60LS 700.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005656",
+    "modelo": "NS60L 700",
+    "archivo_definitivo": "images/capsa/311005656.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / NS60L 700.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005657",
+    "modelo": "NS60LS 770",
+    "archivo_definitivo": "images/capsa/311005657.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / NS60LS 770.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005658",
+    "modelo": "NS60L 770",
+    "archivo_definitivo": "images/capsa/311005658.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / NS60L 770.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005659",
+    "modelo": "NS40L 670",
+    "archivo_definitivo": "images/capsa/311005659.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / NS40L 670.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005722",
+    "modelo": "30H 1600",
+    "archivo_definitivo": "images/capsa/311005722.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 30H 1600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005723",
+    "modelo": "31T 1600",
+    "archivo_definitivo": "images/capsa/311005723.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA HD / 31T 1600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005788",
+    "modelo": "65 1100",
+    "archivo_definitivo": "images/capsa/311005788.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / CAPSA MAX / 65 1100.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311005876",
+    "modelo": "36I 650",
+    "archivo_definitivo": "images/capsa/311005876.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 8",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311006055",
+    "modelo": "24R 1100",
+    "archivo_definitivo": "images/capsa/311006055.png",
+    "tipo": "Reutilizada de familia (nueva)",
+    "fuente": "CAPSA MAX 24R 950.png (familia \"24R\")",
+    "justificacion": "Familia CAPSA MAX 260x173x220 Der: misma carcasa/etiqueta que 24R 800/900/950 ya fotografiados; carcasa confirmada por dimensiones y polaridad idénticas.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "CAPSA",
+    "sku": "311006056",
+    "modelo": "24 1100",
+    "archivo_definitivo": "images/capsa/311006056.png",
+    "tipo": "Reutilizada de familia (nueva)",
+    "fuente": "CAPSA MAX 24 950.png (familia \"24\")",
+    "justificacion": "Familia CAPSA MAX 260x173x220 Izq: misma carcasa/etiqueta que 24 800 y 24 950 ya fotografiados; carcasa confirmada por dimensiones y polaridad idénticas.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000728",
+    "modelo": "L-42-550",
+    "archivo_definitivo": "images/lth/321000728.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 4",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000729",
+    "modelo": "L-99-400",
+    "archivo_definitivo": "images/lth/321000729.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / LTH / LTH_Auto_99_LBN1_400_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000730",
+    "modelo": "L-51R-500",
+    "archivo_definitivo": "images/lth/321000730.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / LTH / LTH_Auto_51R-500_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000731",
+    "modelo": "L-48/91-615",
+    "archivo_definitivo": "images/lth/321000731.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 4",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000732",
+    "modelo": "L-35-575",
+    "archivo_definitivo": "images/lth/321000732.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / LTH / LTH_Auto_35-575_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000733",
+    "modelo": "L-24R-530",
+    "archivo_definitivo": "images/lth/321000733.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / LTH / LTH_Auto_24R-530_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000734",
+    "modelo": "L-27-750",
+    "archivo_definitivo": "images/lth/321000734.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 4",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000735",
+    "modelo": "L-27F-750",
+    "archivo_definitivo": "images/lth/321000735.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 4",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000736",
+    "modelo": "L-NS40L-340",
+    "archivo_definitivo": "images/lth/321000736.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / LTH / LTH_Auto_NS40L-340_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000737",
+    "modelo": "H-24-600",
+    "archivo_definitivo": "images/lth/321000737.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_24-600_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000738",
+    "modelo": "H-24R-600",
+    "archivo_definitivo": "images/lth/321000738.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_24R-600_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000739",
+    "modelo": "H-27-810",
+    "archivo_definitivo": "images/lth/321000739.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_27-810_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000740",
+    "modelo": "H-27F-810",
+    "archivo_definitivo": "images/lth/321000740.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_27F-810_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000741",
+    "modelo": "H-99-470",
+    "archivo_definitivo": "images/lth/321000741.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_99-LBN1_470_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000742",
+    "modelo": "H-48/91-730",
+    "archivo_definitivo": "images/lth/321000742.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_48-91_LN3_730_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000743",
+    "modelo": "H-49-850",
+    "archivo_definitivo": "images/lth/321000743.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA / HI TEC / LTH_Auto_HITEC_49_LN5-850_3-4_Right_PR.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000749",
+    "modelo": "L-35-650 AGM -35",
+    "archivo_definitivo": "images/lth/321000749.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 6",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000750",
+    "modelo": "L-48/91-760 AGM -LN3",
+    "archivo_definitivo": "images/lth/321000750.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 6",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000751",
+    "modelo": "L-49-900 AGM -LN5",
+    "archivo_definitivo": "images/lth/321000751.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 6",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000752",
+    "modelo": "L-94R-850 AGM -LN4",
+    "archivo_definitivo": "images/lth/321000752.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 6",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "LTH",
+    "sku": "321000753",
+    "modelo": "L-47-660 AGM -LN2",
+    "archivo_definitivo": "images/lth/321000753.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 6",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800001",
+    "modelo": "12N7B-3AFA",
+    "archivo_definitivo": "images/motoracing/310800001.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 14",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800005",
+    "modelo": "12N5-3BFA",
+    "archivo_definitivo": "images/motoracing/310800005.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 14",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800009",
+    "modelo": "12N9-4BFA",
+    "archivo_definitivo": "images/motoracing/310800009.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 14",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800010",
+    "modelo": "12N7-3BFA",
+    "archivo_definitivo": "images/motoracing/310800010.png",
+    "tipo": "Extraída del PDF — PENDIENTE VALIDACIÓN",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 14",
+    "justificacion": "El PDF usa la MISMA imagen genérica para este modelo y para otro modelo de dimensiones distintas en la misma página (mismo archivo embebido duplicado) — no se confirma que represente la carcasa real de este SKU específico. No usar como definitiva sin una foto real adicional o confirmación de Clarios.",
+    "confianza": "Baja — no usar sin validar"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800011",
+    "modelo": "YTX7A-FA",
+    "archivo_definitivo": "images/motoracing/310800011.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 15",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800013",
+    "modelo": "YTX7L-FA",
+    "archivo_definitivo": "images/motoracing/310800013.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 15",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800014",
+    "modelo": "YTX5L-FA",
+    "archivo_definitivo": "images/motoracing/310800014.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 15",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800016",
+    "modelo": "YTX4L-FA",
+    "archivo_definitivo": "images/motoracing/310800016.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 15",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800018",
+    "modelo": "YTX9-FA",
+    "archivo_definitivo": "images/motoracing/310800018.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 15",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "MOTORACING",
+    "sku": "310800025",
+    "modelo": "12N6.5L",
+    "archivo_definitivo": "images/motoracing/310800025.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 14",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "OPTIMA",
+    "sku": "321000304",
+    "modelo": "D31M",
+    "archivo_definitivo": "images/optima/321000304.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / OPTIMA AZUL D31.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "OPTIMA",
+    "sku": "321000305",
+    "modelo": "D31A",
+    "archivo_definitivo": "images/optima/321000305.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / OPTIMA AMARILLA D31.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "OPTIMA",
+    "sku": "321000306",
+    "modelo": "D34/78",
+    "archivo_definitivo": "images/optima/321000306.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / OPTIMA AMARILLA D34.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "OPTIMA",
+    "sku": "321000307",
+    "modelo": "34R",
+    "archivo_definitivo": "images/optima/321000307.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / OPTIMA RED D34.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "OPTIMA",
+    "sku": "321000308",
+    "modelo": "D51R",
+    "archivo_definitivo": "images/optima/321000308.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / OPTIMA AMARILLA D51.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311004751",
+    "modelo": "42I SC 600",
+    "archivo_definitivo": "images/silvercast/311004751.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 4 (REF. 42ISC600)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311004752",
+    "modelo": "NS40L HD SC 540",
+    "archivo_definitivo": "images/silvercast/311004752.png",
+    "tipo": "Extraída del PDF — PENDIENTE VALIDACIÓN",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 26",
+    "justificacion": "El PDF usa la MISMA imagen genérica para este modelo y para otro modelo de dimensiones distintas en la misma página (mismo archivo embebido duplicado) — no se confirma que represente la carcasa real de este SKU específico. No usar como definitiva sin una foto real adicional o confirmación de Clarios.",
+    "confianza": "Baja — no usar sin validar"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311004927",
+    "modelo": "NS60L SC 650",
+    "archivo_definitivo": "images/silvercast/311004927.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 2 (REF. NS60LSC650)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311004928",
+    "modelo": "NS60LS SC 650",
+    "archivo_definitivo": "images/silvercast/311004928.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 3 (REF. NS60LSSC650)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311005613",
+    "modelo": "27R SC 820",
+    "archivo_definitivo": "images/silvercast/311005613.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 6 (REF. 27RSC820)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311006045",
+    "modelo": "NS40LSC 540",
+    "archivo_definitivo": "images/silvercast/311006045.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 1 (REF. NS40LSC540)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "SILVER CAST",
+    "sku": "311006057",
+    "modelo": "24R SC 800",
+    "archivo_definitivo": "images/silvercast/311006057.png",
+    "tipo": "Extraída de fichas técnicas SILVERCAST (nueva)",
+    "fuente": "PDF fichas técnicas SILVERCAST PE.pdf, página 5 (REF. 24RSC800)",
+    "justificacion": "Foto real y específica de este SKU (no genérica) extraída de la ficha técnica individual SILVERCAST PE; antes solo se tenía la referencia al PDF, no una imagen maestra independiente. Se aplicó el mismo pipeline de mejora (recorte alta resolución, fondo transparente, centrado, 1400x1400, nitidez).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311000474",
+    "modelo": "49ST V4 1250",
+    "archivo_definitivo": "images/varta/311000474.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 49STV41250.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002861",
+    "modelo": "4D V4 1550",
+    "archivo_definitivo": "images/varta/311002861.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DV41550.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002862",
+    "modelo": "4DI V4 1550",
+    "archivo_definitivo": "images/varta/311002862.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DIV41550.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002863",
+    "modelo": "4D V4 1600",
+    "archivo_definitivo": "images/varta/311002863.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DV41600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002864",
+    "modelo": "4DI V4 1600",
+    "archivo_definitivo": "images/varta/311002864.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DIV41600.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002865",
+    "modelo": "4DLT V4 1500",
+    "archivo_definitivo": "images/varta/311002865.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DLTV41500.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002866",
+    "modelo": "4DLTI V4 1500",
+    "archivo_definitivo": "images/varta/311002866.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 4DLTI-V4-1500.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002867",
+    "modelo": "8D V4 2650",
+    "archivo_definitivo": "images/varta/311002867.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 8DV42650.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311002868",
+    "modelo": "8DI V4 2650",
+    "archivo_definitivo": "images/varta/311002868.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 8DIV42650.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311003692",
+    "modelo": "NS60ZLS V4 730",
+    "archivo_definitivo": "images/varta/311003692.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / NS60ZLS-V4-730.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311003694",
+    "modelo": "NS60ZZLS V5 790",
+    "archivo_definitivo": "images/varta/311003694.png",
+    "tipo": "Reutilizada de familia (nueva)",
+    "fuente": "VARTA NS60ZZL-V5-790.png (hermano 311005860)",
+    "justificacion": "Confirmado directamente en el PDF multimarca: NS60ZZL y NS60ZZLS V5 790 usan la IDÉNTICA imagen embebida (mismo archivo fuente) — misma carcasa/etiqueta real, familia VARTA SILVER 237x128x223 Der.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311004873",
+    "modelo": "24R V5 1200",
+    "archivo_definitivo": "images/varta/311004873.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 19",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311004879",
+    "modelo": "27R V5 1300",
+    "archivo_definitivo": "images/varta/311004879.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 27RV51300.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005847",
+    "modelo": "36IST V4 780",
+    "archivo_definitivo": "images/varta/311005847.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 36IST-V4-780.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005849",
+    "modelo": "35 V4 850",
+    "archivo_definitivo": "images/varta/311005849.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 35-V4-850.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005850",
+    "modelo": "42IST V4 870",
+    "archivo_definitivo": "images/varta/311005850.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 42IST-V4-870.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005851",
+    "modelo": "48IST V4 970",
+    "archivo_definitivo": "images/varta/311005851.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 48IST-V4-970.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005852",
+    "modelo": "L1ST V4 750",
+    "archivo_definitivo": "images/varta/311005852.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 20",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005854",
+    "modelo": "24R V4 950",
+    "archivo_definitivo": "images/varta/311005854.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 24R-V4-950.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005855",
+    "modelo": "27R V4 1200",
+    "archivo_definitivo": "images/varta/311005855.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 20",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005856",
+    "modelo": "31T V4 1900",
+    "archivo_definitivo": "images/varta/311005856.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 31T-V4-1900.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005858",
+    "modelo": "48IST V5 1150",
+    "archivo_definitivo": "images/varta/311005858.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / 48IST-V5-1150.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005859",
+    "modelo": "42IST V5 950",
+    "archivo_definitivo": "images/varta/311005859.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 19",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005860",
+    "modelo": "NS60ZZL V5 790",
+    "archivo_definitivo": "images/varta/311005860.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / NS60ZZL-V5-790.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311005863",
+    "modelo": "NS40ZL V4 HD 680",
+    "archivo_definitivo": "images/varta/311005863.png",
+    "tipo": "Extraída del PDF multimarca (nueva)",
+    "fuente": "CATALOGO CLARIOS MULTIMARCA.pdf, pág. 20",
+    "justificacion": "Foto real de producto extraída del PDF con coincidencia exacta de código de modelo; mejorada (resolución, nitidez, fondo transparente, centrado).",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "311006044",
+    "modelo": "NS40ZL V4 680",
+    "archivo_definitivo": "images/varta/311006044.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / NS40ZLV4680.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "321000662",
+    "modelo": "LN3 AGM",
+    "archivo_definitivo": "images/varta/321000662.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / LN3.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "321000664",
+    "modelo": "LN5 AGM",
+    "archivo_definitivo": "images/varta/321000664.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / LN5.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "321000666",
+    "modelo": "LN4 AGM",
+    "archivo_definitivo": "images/varta/321000666.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / LN4.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  },
+  {
+    "marca": "VARTA",
+    "sku": "321000668",
+    "modelo": "LN2 AGM",
+    "archivo_definitivo": "images/varta/321000668.png",
+    "tipo": "Existente (ya en IMAGEN BATERIA)",
+    "fuente": "IMAGEN BATERIA /  / LN2.png",
+    "justificacion": "Foto real ya presente en la biblioteca local del proyecto; sin cambios.",
+    "confianza": "Alta"
+  }
+]
